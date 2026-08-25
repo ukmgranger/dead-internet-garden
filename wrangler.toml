@@ -5,4 +5,4 @@ compatibility_date = "2026-08-25"
 [[d1_databases]]
 binding = "DB"
 database_name = "dead-internet-garden"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "cb862a8b-1e66-4d0a-92dd-c34d0c4a9dc2"
