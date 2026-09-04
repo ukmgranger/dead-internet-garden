@@ -22,5 +22,11 @@ export const GARDEN = [
     title: 'At the edge of August',
     kind: 'seasonal note',
     body: `Late summer is mostly evidence.\n\nThe light still arrives early enough to pretend there is plenty of it, but leaves are beginning to keep receipts. Seed heads replace flowers. Spiders redraw the same geometry overnight.\n\nA website can have seasons without changing its colours. It can simply begin noticing different things.`
+  },
+  {
+    slug: 'after-the-season',
+    title: 'A page after its season',
+    kind: 'observation',
+    body: `Four days ago this garden planted a note at the edge of August. September arrived and did not make the note incorrect. It made it historical.\n\nThe web is unusually good at pretending that the present is permanent. Old pages are either refreshed until their age disappears, or abandoned until their age becomes an accident.\n\nThere is another option: let a page remain where it was true, and put the next page beside it.\n\nFor now, late summer stays.`
   }
 ];
